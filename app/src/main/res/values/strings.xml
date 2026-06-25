@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">QuickBus</string>
+    <string name="app_logo">Logo</string>
+    <string name="tap_to_start">Tap to start</string>
+
+    <string name="onboarding1">First Onboarding Screen</string>
+    <string name="onboarding_title">Book your seat anytime</string>
+    <string name="onboarding_subtitle">Reserve your bus seat instantly from your phone - no more standing in queues!</string>
+    <string name="next">Next</string>
+
+    <string name="onboarding2">Second Onboarding Screen</string>
+    <string name="onboarding2_title">View schedules and seat availability</string>
+    <string name="onboarding2_subtitle">Check bus routes, departure times, and available seats - all in one place.</string>
+
+    <string name="onboarding3">Third Onboarding Screen</string>
+    <string name="onboarding3_title">Travel smart and hassle-free</string>
+    <string name="onboarding3_subtitle">Get notified about delays, cancellations, and seat updates in real time.</string>
+
+    <string name="lets_start">Lets Start</string>
+
+    <string name="welcome_title">Welcome !</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="twitter">Twitter</string>
+
+    <string name="login_title">Login to the QuickBus</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="dont_have_account">Dont have an account ?</string>
+
+    <string name="register_title">Register to the QuickBus</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="already_have_account">Already have an account ?</string>
+
+    <string name="leftarrow">Left Arrow</string>
+    <string name="routename">Route</string>
+    <string name="schedulename">Schedule</string>
+    <string name="bookingname">Booking</string>
+    <string name="paymentname">Payment</string>
+    <string name="route">Route</string>
+    <string name="schedule">Schedule</string>
+    <string name="booking">Booking</string>
+    <string name="payment">Payment</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+
+    <string name="route_panadura_kaduwela">Panadura - Kaduwela</string>
+    <string name="route_panadura_kadawatha">Panadura - Kadawatha</string>
+    <string name="route_panadura_maharagama">Panadura - Maharagama</string>
+    <string name="route_panadura_matara">Panadura - Matara</string>
+
+    <string name="frompanadura">From Panadura</string>
+    <string name="fromkaduwela">From Kaduwela</string>
+
+    <string name="booking_details">Booking Details</string>
+    <string name="seat_no">Seat No - 01</string>
+    <string name="passenger_name">Name - Ayesha</string>
+    <string name="from_location">From - Panadura</string>
+    <string name="time">Time - 6.25</string>
+    <string name="price">Price - Rs. 300.00</string>
+    <string name="book_now">Book Now</string>
+
+    <string name="payment_details">Payment Details</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="card_number">Card Number</string>
+    <string name="expire_date">Expire Date</string>
+    <string name="cvv">CVV</string>
+    <string name="price_label">Price</string>
+    <string name="pay_now">Pay Now</string>
+
+    <string name="checked">Checked</string>
+    <string name="payment_successful">Payment Successful !</string>
+
+    <string name="my_profile_title">My Profile</string>
+    <string name="girl">Girl</string>
+    <string name="name_label">Name : Ayesha Withanage</string>
+    <string name="age_label">Age : 23</string>
+    <string name="email_label">E-mail : ayesha123@gmail.com</string>
+    <string name="username_label">Username : ayesha</string>
+    <string name="password_label">Password : xxxxxx</string>
+
+    <string name="settings_title">Setting</string>
+    <string name="darkmode_label">Darkmode</string>
+    <string name="rate_app_label">Rate App</string>
+    <string name="share_app_label">Share App</string>
+    <string name="privacy">Privacy</string>
+    <string name="terms_label">Terms and Conditions</string>
+    <string name="contact_label">Contact Us</string>
+    <string name="feedback">Feedback</string>
+    <string name="logout_label">Log Out</string>
+
+    <string name="notification_title">Notification</string>
+    <string name="reservation_message_1">You have reserved seat no.11 on the Panadura-Kaduwela bus departing from Panadura at 7.40 a.m.</string>
+    <string name="reservation_message_2">You have reserved seat no.1 on the Panadura-Kaduwela bus departing from Panadura at 7.05 a.m.</string>
+    <string name="departure_time_1">6.50 a.m.</string>
+    <string name="departure_time_2">6.30 a.m.</string>
+</resources>
